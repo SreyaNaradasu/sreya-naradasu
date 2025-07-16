@@ -6,11 +6,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently building an **AI-powered PDF Reader** for Adobe India Hackathon (Round 2 Qualifier 🎉)
-- 🌱 I’m learning **JavaScript**, **Generative AI**, and improving my full-stack development skills
-- 🧠 I love solving problems using **Python**, **Streamlit**, and **OpenAI APIs**
-- 💬 Ask me about anything related to **AI + Web Projects**
-- 📫 Reach me at: **sreyan3712@gmail.com**
+-  I’m learning **JavaScript**, **AI**, and improving my full-stack development skills
+-  I love solving problems using **Python**, **Streamlit**, and **OpenAI APIs**
+-  Ask me about anything related to **AI + Web Projects**
+-  Reach me at: **sreyan3712@gmail.com**
 
 ---
 
