@@ -1,4 +1,4 @@
-# sreya-naradasu
+# SreyaNaradasu
 <h1 align="center">Hi 👋, I'm Sreya Naradasu</h1>
 <h3 align="center">💡 A Passionate Developer Exploring AI, Full Stack Web Dev, and Creative Tech</h3>
 
@@ -10,14 +10,14 @@
 - 🌱 I’m learning **JavaScript**, **Generative AI**, and improving my full-stack development skills
 - 🧠 I love solving problems using **Python**, **Streamlit**, and **OpenAI APIs**
 - 💬 Ask me about anything related to **AI + Web Projects**
-- 📫 Reach me at: **sreya.dev@gmail.com**
+- 📫 Reach me at: **sreyan3712@gmail.com**
 
 ---
 
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/sreya-naradasu" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
-  <a href="mailto:sreya.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat" /></a>
+  <a href="mailto:sreyan3712@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat" /></a>
 </p>
 
 ---
