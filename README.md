@@ -20,7 +20,6 @@
 </p>
 
 ---
-
 ### 🛠️ Languages & Tools
 <p align="left">
   <!-- Programming Languages -->
@@ -48,15 +47,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 
-  <!-- AI/ML & Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Streamlit-logo-mark-color.png" width="40" title="Streamlit" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" width="40" title="OpenAI" />
-  <img src="https://avatars.githubusercontent.com/u/136828250?s=200&v=4" width="40" title="Whisper" />
+  <!-- AI/ML & Tools (with working PNGs) -->
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/streamlit-icon.svg" width="40" alt="Streamlit" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/openai-icon.svg" width="40" alt="OpenAI" />
+  <img src="https://avatars.githubusercontent.com/u/136828250?s=200&v=4" width="40" alt="Whisper" />
 
   <!-- Cloud & Deployment -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40"/>
 </p>
+
 
 
 
