@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 
   <!-- AI/ML & Tools -->
-  <img src="https://streamlit-logos.s3.us-east-2.amazonaws.com/streamlit-logo-primary.png" width="40" alt="Streamlit" />
+  <img src="https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/_static/favicon.png" width="40" alt="Streamlit" />
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/openai-icon.svg" width="40" alt="OpenAI" />
   <img src="https://avatars.githubusercontent.com/u/136828250?s=200&v=4" width="40" alt="Whisper" />
 
@@ -57,6 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40"/>
 </p>
+
 
 
 
